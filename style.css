@@ -21,7 +21,7 @@ ul li{
     text-decoration: line-through;
 }
 
-ul li i:first-child{
+i{
     all: initial;
     text-decoration: none;
     cursor: pointer;
