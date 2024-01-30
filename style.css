@@ -21,8 +21,7 @@ ul li{
     text-decoration: line-through;
 }
 
-i{
-    all: initial;
+ul li i{
     text-decoration: none;
     cursor: pointer;
 }
